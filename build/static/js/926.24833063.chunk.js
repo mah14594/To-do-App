@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_complete_guide=self.webpackChunkreact_complete_guide||[]).push([[926],{926:function(e,t,c){c.r(t),c.d(t,{default:function(){return a}});var n=c(791),r=c(394),o=c(184);function a(){return(0,o.jsxs)(n.Fragment,{children:[(0,o.jsx)("h1",{className:"text-center col-12 mx-auto",children:"Page not Found! Error 404!"}),(0,o.jsx)(r.rU,{to:"/login",className:"col-12 mx-auto text-center",children:"Back to login"})]})}}}]);
+//# sourceMappingURL=926.24833063.chunk.js.map
